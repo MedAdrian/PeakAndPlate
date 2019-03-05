@@ -15,7 +15,7 @@ Sample code to determine if car can roll based on the 'Peak and Plate' (Pico y p
 
 * To run tests try the next command:
  ```console
- $ 
+ $ ./vendor/bin/phpunit tests/
 ```
 
 Feel free to comment and give any advice
